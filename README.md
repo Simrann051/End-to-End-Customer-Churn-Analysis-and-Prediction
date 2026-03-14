@@ -61,19 +61,31 @@ Evaluation Metrics:
 
 Customer-Churn-Analysis
 │
-├── powerbi/
-│   └── Churn Analysis.pbix
-│
-├── sql/
-│   ├── handle_nulls.sql
-│   ├── query1.sql
-│   └── SQLQuery1.sql
-│
-├── model/
-│   ├── prediction.py
-│   └── new_prediction.xlsx
+├── data/
+│ └── Customer_Data.csv
 │
 ├── images/
-│   └── dashboard_preview.png
+│ ├── Dashboard_preview_1.png
+│ └── Dashboard_preview_2.png
+│
+├── model/
+│ ├── prediction.py
+│ └── new_prediction.xlsx
+│
+├── powerbi/
+│ └── Churn Analysis.pbix
+│
+├── sql/
+│ ├── Checking Distinct Values.sql
+│ ├── handle nulls.sql
+│ └── View for Power BI.sql
 │
 └── README.md
+
+## Dashboard Preview
+
+### Churn Overview
+![Dashboard](images/Churn_Analysis_Dashboard.png)
+
+### Customer Segmentation
+![Dashboard](images/Churn_Prediction_Dashboard.png)
