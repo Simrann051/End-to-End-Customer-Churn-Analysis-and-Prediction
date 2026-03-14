@@ -57,4 +57,23 @@ Evaluation Metrics:
 - Identified revenue impact caused by customer churn.
 
 ---
+## Project Structure
 
+Customer-Churn-Analysis
+│
+├── powerbi/
+│   └── Churn Analysis.pbix
+│
+├── sql/
+│   ├── handle_nulls.sql
+│   ├── query1.sql
+│   └── SQLQuery1.sql
+│
+├── model/
+│   ├── prediction.py
+│   └── new_prediction.xlsx
+│
+├── images/
+│   └── dashboard_preview.png
+│
+└── README.md
