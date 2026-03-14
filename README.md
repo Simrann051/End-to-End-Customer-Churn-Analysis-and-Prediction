@@ -61,7 +61,7 @@ Evaluation Metrics:
 ## Dashboard Preview
 
 ### Churn Overview
-![Churn Dashboard](images/Dashboard_preview_1.png)
+![Churn Dashboard](images/Churn_Analysis_Dashboard.png)
 
 ### Customer Segmentation
-![Customer Segmentation](images/Dashboard_preview_2.png)
+![Customer Segmentation](images/Churn_Prediction_Dashboard.png)
